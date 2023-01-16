@@ -1,0 +1,217 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "url": "./images/products/image 1.png",
+      "newPrice": "$26.82/kg",
+      "discount": "32% dto.",
+      "productName": "Limon con semilla",
+      "price": "$20.06/kg",
+      "category": "healthy",
+      "priceCantMin": ""
+    },
+    {
+      "id": 2,
+      "url": "./images/products/image 2.png",
+      "newPrice": "$21.79/kg",
+      "discount": "32% dto.",
+      "productName": "Tomate",
+      "price": "$32.9/kg",
+      "category": "healthy",
+      "priceCantMin": ""
+    },
+    {
+      "id": 3,
+      "url": "./images/products/image 3.png",
+      "newPrice": "$56.8/kg",
+      "discount": "18% dto.",
+      "productName": "Aguacate Hass",
+      "price": "$69.9/kg",
+      "category": "healthy",
+      "priceCantMin": ""
+    },
+    {
+      "id": 4,
+      "url": "./images/products/image 4.png",
+      "discount": "13% dto.",
+      "newPrice": "$25.8/kg",
+      "productName": "Nopal Limpio",
+      "price": "$29.9/kg",
+      "category": "healthy",
+      "priceCantMin": ""
+    },
+    {
+      "id": 5,
+      "url": "./images/products/image 5.png",
+      "discount": "8% dto.",
+      "newPrice": "$22.89/kg",
+      "productName": "Tomate verde sin cascara",
+      "price": "$24.9/kg",
+      "category": "healthy",
+      "priceCantMin": ""
+    },
+    {
+      "id": 6,
+      "url": "./images/products/image 11.png",
+      "discount": "",
+      "newPrice": "",
+      "productName": "San Rafael pechuga de pavo",
+      "price": "$ 62.5",
+      "category": "not-healthy",
+      "priceCantMin": "250 g ($0.25/gr)"
+    },
+    {
+      "id": 7,
+      "url": "./images/products/image 12.png",
+      "discount": "",
+      "newPrice": "",
+      "productName": "Bimbo Pan Blanco Grande",
+      "price": "$21.79/kg",
+      "category": "not-healthy",
+      "priceCantMin": "680g ($0.6/gr)"
+    },
+    {
+      "id": 8,
+      "url": "./images/products/image 13.png",
+      "discount": "",
+      "newPrice": "",
+      "productName": "Mc Cormick Mayonesa",
+      "price": "$48.5",
+      "category": "not-healthy",
+      "priceCantMin": "507 g($0.1/gr)"
+    },
+    {
+      "id": 9,
+      "url": "./images/products/image 14.png",
+      "discount": "",
+      "newPrice": "",
+      "productName": "Colgate Pasta Dental Triple Familiar 2U",
+      "price": "$28.6",
+      "category": "cleanliness",
+      "priceCantMin": "125ml ($0.28/ml)"
+    },
+    {
+      "id": 10,
+      "url": "./images/products/image 15.png",
+      "discount": "",
+      "newPrice": "",
+      "productName": "Huevos San Rafael",
+      "price": "$37.5",
+      "category": "not-healthy",
+      "priceCantMin": "18 und($2.08/u)"
+    }
+  ],
+  "localization": [
+    {
+      "id": 1,
+      "municipaly": "Bojacá"
+    },
+    {
+      "id": 2,
+      "municipaly": "Cajicá"
+    },
+    {
+      "id": 3,
+      "municipaly": "Chía"
+    },
+    {
+      "id": 4,
+      "municipaly": "Cogua"
+    },
+    {
+      "id": 5,
+      "municipaly": "Cota"
+    },
+    {
+      "id": 6,
+      "municipaly": "El Rosal"
+    },
+    {
+      "id": 7,
+      "municipaly": "Facatativá"
+    },
+    {
+      "id": 8,
+      "municipaly": "Funza"
+    },
+    {
+      "id": 9,
+      "municipaly": "Gachancipá"
+    },
+    {
+      "id": 10,
+      "municipaly": "La Calera"
+    },
+    {
+      "id": 11,
+      "municipaly": "Madrid"
+    },
+    {
+      "id": 12,
+      "municipaly": "Mosquera"
+    },
+    {
+      "id": 13,
+      "municipaly": "Nemocón"
+    },
+    {
+      "id": 14,
+      "municipaly": "Soacha"
+    },
+    {
+      "id": 15,
+      "municipaly": "Sibaté"
+    },
+    {
+      "id": 16,
+      "municipaly": "Sopó"
+    },
+    {
+      "id": 17,
+      "municipaly": "Subachoque"
+    },
+    {
+      "id": 18,
+      "municipaly": "Tabio"
+    },
+    {
+      "id": 18,
+      "municipaly": "Tenjo"
+    },
+    {
+      "id": 19,
+      "municipaly": "Tocancipá"
+    },
+    {
+      "id": 20,
+      "municipaly": "Zipacón"
+    },
+    {
+      "id": 21,
+      "municipaly": "Zipaquirá"
+    }
+  ],
+  "favorites": [
+    {
+      "productId": 3,
+      "id": 3
+    },
+    {
+      "productId": 1,
+      "id": 4
+    },
+    {
+      "productId": 1,
+      "id": 5
+    },
+    {
+      "productId": 1,
+      "id": 6
+    },
+    {
+      "productId": 3,
+      "id": 7
+    }
+  ],
+  "Shooping": [ ]
+}
